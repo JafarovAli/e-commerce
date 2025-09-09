@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\ECommerce\\ECommerceAPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\migrations\\20250909171107_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\migrations\\20250909171107_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,14 +95,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250909171107_Mig_1.cs",
-              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909171107_Mig_1.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909171107_Mig_1.cs",
-              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909171107_Mig_1.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909171107_Mig_1.cs",
+              "Title": "20250909173332_Mig_1.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T17:11:07.579Z",
+              "WhenOpened": "2025-09-09T17:33:33.125Z",
               "EditorCaption": ""
             },
             {
@@ -113,22 +113,9 @@
               "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
               "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
               "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T17:07:28.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\ECommerceAPP.API\\Program.cs",
-              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\Program.cs",
-              "RelativeToolTip": "Presentation\\ECommerceAPP.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:39:47.539Z",
               "EditorCaption": ""
             },
             {
@@ -152,9 +139,22 @@
               "RelativeDocumentMoniker": "Presentation\\ECommerceAPP.API\\appsettings.json",
               "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\appsettings.json",
               "RelativeToolTip": "Presentation\\ECommerceAPP.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-09T16:34:03.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\ECommerceAPP.API\\Program.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\ECommerceAPP.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:39:47.539Z",
               "EditorCaption": ""
             },
             {

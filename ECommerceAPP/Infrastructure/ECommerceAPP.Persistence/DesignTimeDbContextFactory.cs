@@ -1,6 +1,7 @@
 ﻿using ECommerceAPP.Persistence.Contexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using Microsoft.Extensions.Configuration;
 
 namespace ECommerceAPP.Persistence;
 
@@ -8,8 +9,12 @@ public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<ECommerceA
 {
     public ECommerceAPPDbContext CreateDbContext(string[] args)
     {
+        ConfigurationManager configurationManager = new();
+        configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../../Presentation/ECommerceAPP.API"));
+        configurationManager.AddJsonFile("appsettings.json");
+
         DbContextOptionsBuilder<ECommerceAPPDbContext> dbContextOptionsBuilder = new();
-        dbContextOptionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=ECommerceAPP;Username=postgres;Password=1234");
+        dbContextOptionsBuilder.UseNpgsql(configurationManager.GetConnectionString("DefaultConnection"));
         return new(dbContextOptionsBuilder.Options);
     }
 }
