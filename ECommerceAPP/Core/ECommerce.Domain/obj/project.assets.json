@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj",
+      "projectUniqueName": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj",
       "projectName": "ECommerceAPP.Domain",
-      "projectPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj",
+      "projectPath": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Domain\\obj\\",
+      "outputPath": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

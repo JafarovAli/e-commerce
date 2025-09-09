@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\E-CommerceApplication\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj": {}
+    "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj": {}
   },
   "projects": {
-    "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj": {
+    "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj",
+        "projectUniqueName": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj",
         "projectName": "ECommerceAPP.Application",
-        "projectPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj",
+        "projectPath": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Application\\obj\\",
+        "outputPath": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -35,8 +35,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj": {
-                "projectPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj"
+              "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj": {
+                "projectPath": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj": {
+    "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj",
+        "projectUniqueName": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj",
         "projectName": "ECommerceAPP.Domain",
-        "projectPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj",
+        "projectPath": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Domain\\ECommerceAPP.Domain.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Domain\\obj\\",
+        "outputPath": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\E-CommerceApplication\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj": {
+    "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\E-CommerceApplication\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj",
-        "projectName": "ECommerceAPP.API",
-        "projectPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj",
+        "projectUniqueName": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj",
+        "projectName": "ECommerceAPP.Persistence",
+        "projectPath": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\obj\\",
+        "outputPath": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,8 +175,99 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj": {
-                "projectPath": "D:\\E-CommerceApplication\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj"
+              "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj": {
+                "projectPath": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj",
+        "projectName": "ECommerceAPP.API",
+        "projectPath": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\C#\\MyWarehouse\\Warehouse\\Warehouse.Notification": {},
+          "D:\\C#\\Project2\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj": {
+                "projectPath": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\ECommerceAPP.Application.csproj"
+              },
+              "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj": {
+                "projectPath": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj"
               }
             }
           }
@@ -200,6 +291,12 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
             }
           },
           "imports": [

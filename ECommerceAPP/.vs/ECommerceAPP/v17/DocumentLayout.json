@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\E-CommerceApplication\\ECommerceAPP\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\ECommerce\\ECommerceAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\migrations\\20250909171107_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\migrations\\20250909171107_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A7CDBC-0D04-4E2A-91F5-E354AF727D42}|Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj|d:\\ecommerce\\ecommerceapp\\presentation\\ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8A7CDBC-0D04-4E2A-91F5-E354AF727D42}|Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj|solutionrelative:presentation\\ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A7CDBC-0D04-4E2A-91F5-E354AF727D42}|Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj|d:\\ecommerce\\ecommerceapp\\presentation\\ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A7CDBC-0D04-4E2A-91F5-E354AF727D42}|Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj|solutionrelative:presentation\\ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\contexts\\ecommerceappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\contexts\\ecommerceappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +91,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250909171107_Mig_1.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909171107_Mig_1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909171107_Mig_1.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909171107_Mig_1.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909171107_Mig_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:11:07.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:07:28.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\ECommerceAPP.API\\Program.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\ECommerceAPP.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:39:47.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:36:08.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\ECommerceAPP.API\\appsettings.json",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\appsettings.json",
+              "RelativeToolTip": "Presentation\\ECommerceAPP.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T16:34:03.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ECommerceAPPDbContext.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Contexts\\ECommerceAPPDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Contexts\\ECommerceAPPDbContext.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Contexts\\ECommerceAPPDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Contexts\\ECommerceAPPDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:14:47.64Z",
+              "EditorCaption": ""
             }
           ]
         },
