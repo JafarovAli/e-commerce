@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "D:\\ECommerce\\ECommerceAPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A7CDBC-0D04-4E2A-91F5-E354AF727D42}|Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj|d:\\ecommerce\\ecommerceapp\\presentation\\ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B8A7CDBC-0D04-4E2A-91F5-E354AF727D42}|Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj|solutionrelative:presentation\\ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A7CDBC-0D04-4E2A-91F5-E354AF727D42}|Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj|d:\\ecommerce\\ecommerceapp\\presentation\\ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A7CDBC-0D04-4E2A-91F5-E354AF727D42}|Presentation\\ECommerceAPP.API\\ECommerceAPP.API.csproj|solutionrelative:presentation\\ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\repositories\\products\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\repositories\\products\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\contexts\\ecommerceappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\contexts\\ecommerceappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\repositories\\products\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\repositories\\products\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\repositories\\orders\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\repositories\\orders\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\repositories\\orders\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\repositories\\orders\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\repositories\\customers\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\repositories\\customers\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|d:\\ecommerce\\ecommerceapp\\infrastructure\\ecommerceapp.persistence\\repositories\\customers\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578B2DF-886C-4E1C-A2B6-8CF19F4B1982}|Infrastructure\\ECommerceAPP.Persistence\\ECommerceAPP.Persistence.csproj|solutionrelative:infrastructure\\ecommerceapp.persistence\\repositories\\customers\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|d:\\ecommerce\\ecommerceapp\\core\\ecommerce.application\\irepositories\\products\\iproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|solutionrelative:core\\ecommerce.application\\irepositories\\products\\iproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|d:\\ecommerce\\ecommerceapp\\core\\ecommerce.application\\irepositories\\products\\iproductwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|solutionrelative:core\\ecommerce.application\\irepositories\\products\\iproductwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|d:\\ecommerce\\ecommerceapp\\core\\ecommerce.application\\irepositories\\orders\\iorderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|solutionrelative:core\\ecommerce.application\\irepositories\\orders\\iorderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|d:\\ecommerce\\ecommerceapp\\core\\ecommerce.application\\irepositories\\orders\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|solutionrelative:core\\ecommerce.application\\irepositories\\orders\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|d:\\ecommerce\\ecommerceapp\\core\\ecommerce.application\\irepositories\\customers\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|solutionrelative:core\\ecommerce.application\\irepositories\\customers\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|d:\\ecommerce\\ecommerceapp\\core\\ecommerce.application\\irepositories\\customers\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7BD388-5BB4-4683-A051-B76BC014009F}|Core\\ECommerce.Application\\ECommerceAPP.Application.csproj|solutionrelative:core\\ecommerce.application\\irepositories\\customers\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +62,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:56:53.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerWriteRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Customers\\CustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Customers\\CustomerWriteRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Customers\\CustomerWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Customers\\CustomerWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:43:41.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderReadRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Orders\\OrderReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Orders\\OrderReadRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Orders\\OrderReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Orders\\OrderReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:43:37.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderWriteRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Orders\\OrderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Orders\\OrderWriteRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Orders\\OrderWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Orders\\OrderWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:43:33.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductReadRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Products\\ProductReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Products\\ProductReadRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Products\\ProductReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Products\\ProductReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:43:25.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductWriteRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Products\\ProductWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Products\\ProductWriteRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Products\\ProductWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Products\\ProductWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:43:16.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerReadRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Customers\\CustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Customers\\CustomerReadRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Customers\\CustomerReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Repositories\\Customers\\CustomerReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:43:44.998Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -94,80 +213,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250909173332_Mig_1.cs",
-              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs",
-              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Migrations\\20250909173332_Mig_1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IProductReadRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Products\\IProductReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Application\\IRepositories\\Products\\IProductReadRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Products\\IProductReadRepository.cs",
+              "RelativeToolTip": "Core\\ECommerce.Application\\IRepositories\\Products\\IProductReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T17:33:33.125Z",
+              "WhenOpened": "2025-09-10T09:42:29.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DesignTimeDbContextFactory.cs",
-              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
-              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\DesignTimeDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABqAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IProductWriteRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Products\\IProductWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Application\\IRepositories\\Products\\IProductWriteRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Products\\IProductWriteRepository.cs",
+              "RelativeToolTip": "Core\\ECommerce.Application\\IRepositories\\Products\\IProductWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T17:07:28.58Z",
+              "WhenOpened": "2025-09-10T09:42:05.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
-              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "IOrderWriteRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Orders\\IOrderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Application\\IRepositories\\Orders\\IOrderWriteRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Orders\\IOrderWriteRepository.cs",
+              "RelativeToolTip": "Core\\ECommerce.Application\\IRepositories\\Orders\\IOrderWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:36:08.075Z",
+              "WhenOpened": "2025-09-10T09:41:28.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\ECommerceAPP.API\\appsettings.json",
-              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\appsettings.json",
-              "RelativeToolTip": "Presentation\\ECommerceAPP.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-09T16:34:03.183Z",
+              "DocumentIndex": 9,
+              "Title": "IOrderReadRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Orders\\IOrderReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Application\\IRepositories\\Orders\\IOrderReadRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Orders\\IOrderReadRepository.cs",
+              "RelativeToolTip": "Core\\ECommerce.Application\\IRepositories\\Orders\\IOrderReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:41:24.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\ECommerceAPP.API\\Program.cs",
-              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Presentation\\ECommerceAPP.API\\Program.cs",
-              "RelativeToolTip": "Presentation\\ECommerceAPP.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ICustomerWriteRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Customers\\ICustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Application\\IRepositories\\Customers\\ICustomerWriteRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Customers\\ICustomerWriteRepository.cs",
+              "RelativeToolTip": "Core\\ECommerce.Application\\IRepositories\\Customers\\ICustomerWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:39:47.539Z",
+              "WhenOpened": "2025-09-10T09:40:31.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ECommerceAPPDbContext.cs",
-              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Contexts\\ECommerceAPPDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerceAPP.Persistence\\Contexts\\ECommerceAPPDbContext.cs",
-              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Infrastructure\\ECommerceAPP.Persistence\\Contexts\\ECommerceAPPDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerceAPP.Persistence\\Contexts\\ECommerceAPPDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ICustomerReadRepository.cs",
+              "DocumentMoniker": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Customers\\ICustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Application\\IRepositories\\Customers\\ICustomerReadRepository.cs",
+              "ToolTip": "D:\\ECommerce\\ECommerceAPP\\Core\\ECommerce.Application\\IRepositories\\Customers\\ICustomerReadRepository.cs",
+              "RelativeToolTip": "Core\\ECommerce.Application\\IRepositories\\Customers\\ICustomerReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:14:47.64Z",
+              "WhenOpened": "2025-09-10T09:40:25.827Z",
               "EditorCaption": ""
             }
           ]

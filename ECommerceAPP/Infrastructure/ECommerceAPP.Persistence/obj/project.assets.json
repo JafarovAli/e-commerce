@@ -1043,7 +1043,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "ECommerceAPP.Domain": "1.0.0"
+          "ECommerceAPP.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.9"
         },
         "compile": {
           "bin/placeholder/ECommerceAPP.Application.dll": {}
