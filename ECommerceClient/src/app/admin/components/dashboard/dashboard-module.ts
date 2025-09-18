@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Dashboard } from './dashboard';
+import { RouterModule } from '@angular/router';
 
 
 
@@ -8,7 +9,10 @@ import { Dashboard } from './dashboard';
   declarations: [],
   imports: [
     CommonModule,
-    Dashboard
+    Dashboard,
+    RouterModule.forChild([
+      { path: "", component: Dashboard }
+    ])
   ]
 })
 export class DashboardModule { }
