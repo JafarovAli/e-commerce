@@ -1,6 +1,8 @@
 import { Component, signal } from '@angular/core';
 import { RouterLink, RouterOutlet } from '@angular/router';
 import { AdminModule } from "./admin/admin-module";
+import { ToastrService } from 'ngx-toastr';
+import { CustomToastr, ToastrMessageType, ToastrPositon } from './services/ui/custom-toastr';
 
 @Component({
   selector: 'app-root',
@@ -10,4 +12,11 @@ import { AdminModule } from "./admin/admin-module";
 })
 export class App {
   protected readonly title = signal('ECommerceClient');
+
+  constructor(toastr: CustomToastr) {
+    toastr.message('Hello world!', 'Toastr fun!',{
+      messageType: ToastrMessageType.Info,
+      positon: ToastrPositon.BottomRight
+    });
+  }
 }
