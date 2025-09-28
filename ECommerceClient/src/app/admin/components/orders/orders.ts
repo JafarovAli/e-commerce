@@ -1,4 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { Base, SpinnerType } from '../../../base/base';
+import { NgxSpinnerService } from 'ngx-spinner';
 
 @Component({
   selector: 'app-orders',
@@ -6,6 +8,12 @@ import { Component } from '@angular/core';
   templateUrl: './orders.html',
   styleUrl: './orders.scss'
 })
-export class Orders {
+export class Orders extends Base implements OnInit {
+  constructor(spinner: NgxSpinnerService) {
+    super(spinner)
+  }
 
+  ngOnInit(): void {
+    this.showSpinner(SpinnerType.LineSpinFadeRotating)
+  }
 }
